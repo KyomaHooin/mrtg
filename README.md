@@ -11,6 +11,5 @@ mrt.pl - Main program.
 
 CONTACT
 
-Author: richard.bruna@protonmail.com<br>
 Source: https://github.com/KyomaHooin/mrtg
 
