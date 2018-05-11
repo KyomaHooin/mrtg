@@ -9,7 +9,7 @@ FILE
 mrt.pl - Main program.
 </pre>
 
-CONTACT
+SOURCE
 
-Source: https://github.com/KyomaHooin/mrtg
+https://github.com/KyomaHooin/mrtg
 
